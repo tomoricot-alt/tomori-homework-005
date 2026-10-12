@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "TOMORI HOMEWORK",
+    "slug": "tomori-homework-005",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#FBF8EE",
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/favicon.png"
+    },
+    "experiments": {
+      "baseUrl": "/tomori-homework-005"
+    }
+  }
+}
